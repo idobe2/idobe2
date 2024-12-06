@@ -9,7 +9,7 @@ I’m a software engineering graduate with a strong foundation in JavaScript, Ty
 ## 🌟 About Me
 
 - 🛠️ **Tech Stack:**  
-  JavaScript (ES6+), TypeScript, React, Next.js, React Native, Node.js, Express.js, MongoDB, Firebase, Docker and Kubernetes.
+  JavaScript (ES6+), TypeScript, React, React Native, Next.js, Node.js, Express.js, MongoDB, Firebase, Docker and Kubernetes.
 
 - 🎯 **Focused On:**  
   - Building scalable full-stack applications.  
